@@ -1,2 +1,0 @@
-print("Welcome to hospital-management-system")
-print("This is the main program file.")
